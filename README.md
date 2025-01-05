@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript bug related to loose equality (==) in comparison operations. The `bug.js` file contains the erroneous code, while `bugSolution.js` provides the corrected version using strict equality (===). Loose equality can lead to unexpected type coercion and incorrect results, especially when comparing null or undefined values.
